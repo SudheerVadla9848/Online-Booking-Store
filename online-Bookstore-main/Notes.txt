@@ -1,0 +1,36 @@
+***Daisy Ui se tailwind css k components readymade mil jate h 
+
+*** ctrl + shift + l = isse jha pr cursor h usi jse bakiyo m b cursor simulataneoulsy bn jata h 
+
+*** for book images go to the freepik .com
+
+// ***import "slick-carousel/slick/slick.css";
+// import "slick-carousel/slick/slick-theme.css";
+// import Slider from "react-slick";
+isko install kia or react slider webstie se lekr aye jisse predefined smooth slider bn gye
+
+***routes dete waqt hm react strict mode ko hta dete h kyoki usse do bar chij render ho ajti h to wha 
+fr wha pr browwserRouter ko  lgate h 
+
+  ***      <li><Link to="/">Home</Link></li>
+bs link lga do <li><a href="/">Home</a></li> inke bdle
+
+
+**** const [theme, setTheme] = useState(
+    localStorage.getItem("theme") ? localStorage.getItem("theme") : "light"
+  );
+
+  dekho jb inspect kroge to application k andr localstorage auyga or whi pr theme hoti h jisme se tum theme lekte ho 
+
+  ***react-hook -form se validate kraya hmne frntd m
+   
+   ### pdenge hm ####cors#### k bare me 
+
+
+   "".env"" file ko use krne k lie dotenv install kro bsdk phle
+
+   **** jisko export const kr k bhej re ho usko jha import krre ho wh { } k andr impoort kro or 
+   jisko export default kr k krre ho usko ssede lelo
+   
+   for hashing passowrd we use bcryptjs dependency
+        const hashPassword=await bcryptjs.hash (password,10),10 is th4 salt value

@@ -35,8 +35,8 @@ enthusiasts to explore various genres, authors, and titles.
    > node index.js (run backend)</br>
    > npm start     (run frontend)</br>
 
-<h2>Author: Neeraj</h2>
-Email: neerajfulpatiya555@gmail.com</br>
-LinkedIn: https://www.linkedin.com/in/neeraj-fulpatiya/</br>
+<h2>Author: Sudheer Vadla</h2>
+Email: sudheervadla123@gmail</br>
+LinkedIn: https://www.linkedin.com/in/sudheer-vadla-24a77b249/</br>
 
 

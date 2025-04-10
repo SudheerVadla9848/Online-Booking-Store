@@ -36,7 +36,7 @@ enthusiasts to explore various genres, authors, and titles.
    > npm start     (run frontend)</br>
 
 <h2>Author: Sudheer Vadla</h2>
-Email: sudheervadla123@gmail</br>
+Email: sudheervadla123@gmail.com</br>
 LinkedIn: https://www.linkedin.com/in/sudheer-vadla-24a77b249/</br>
 
 
